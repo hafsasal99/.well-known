@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.hafsa.cv.base",
-    "sha256_cert_fingerprints":
-    ["EC:0F:F0:C4:D5:EF:44:AB:DD:BE:46:0B:FC:4F:6E:45:3B:B0:CB:05:E9:66:5C:33:D9:E8:EB:C4:B0:7B:75:2A"]
-  }
-}]
